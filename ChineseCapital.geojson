@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ChineseCapital",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Beijing" }, "geometry": { "type": "Point", "coordinates": [ 12956566.139866027981043, 4853023.722071702592075 ] } }
+]
+}
